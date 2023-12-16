@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourav Jaiswal</h1>
 <h3 align="center">A passionate Android developer</h3>
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/b6/41/9e/b6419ef7605a2de874c8a5cc0b2f2aaf.png">
+<img align="right" alt="Coding" width="220" src="https://i.pinimg.com/originals/b6/41/9e/b6419ef7605a2de874c8a5cc0b2f2aaf.png">
 
 - 🔭 I’m currently working on **Android Development**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **souravjais.hzb@gmail.com**
 
-- ⚡ Fun fact **No Fact**
+- ⚡ Fun fact **: No Fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
