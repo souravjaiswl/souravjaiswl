@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Android Development**
 - 🌱 I’m currently learning **Kotlin | C++**
 - 💬 Ask me about **Android Development | Kotlin | Python |
--  x86 Assembly and Reverse Engineering**
+-  Passionate about x86 Assembly and Reverse Engineering**
 - 📫 How to reach me **souravjais.hzb@gmail.com**
 - ⚡ Fun fact **: No Fact**
 <h3 align="left">Connect with me:</h3>
