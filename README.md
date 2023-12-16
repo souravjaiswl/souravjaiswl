@@ -8,6 +8,9 @@
 -  Passionate about x86 Assembly and Reverse Engineering**
 - 📫 How to reach me **souravjais.hzb@gmail.com**
 - ⚡ Fun fact **: No Fact**
+- 
+- 
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/souravjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souravjaiswal" height="30" width="40" /></a>
