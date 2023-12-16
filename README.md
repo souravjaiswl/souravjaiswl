@@ -1,4 +1,4 @@
-![logo](https://github.com/souravjaiswl/souravjaiswl/blob/main/banner.png)
+![logo](https://github.com/souravjaiswl/souravjaiswl/blob/main/banner.gif)
 
 <h1 align="center">I'm Sourav Jaiswal</h1>
 <h3 align="center">A passionate Android developer</h3>
