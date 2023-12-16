@@ -1,18 +1,13 @@
 <h1 align="center">I'm Sourav Jaiswal</h1>
 <h3 align="center">A passionate Android developer</h3>
 <img align="right" alt="Coding" width="240" src="https://i.pinimg.com/originals/b6/41/9e/b6419ef7605a2de874c8a5cc0b2f2aaf.png">
-# 💫 About Me:
-🔭 I’m currently working on **Android Development**
 
+- 🔭 I’m currently working on **Android Development**
 - 🌱 I’m currently learning **Kotlin | C++**
-
 - 💬 Ask me about **Android Development | Kotlin | Python |
 -  x86 Assembly and Reverse Engineering**
-
 - 📫 How to reach me **souravjais.hzb@gmail.com**
-
 - ⚡ Fun fact **: No Fact**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/souravjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souravjaiswal" height="30" width="40" /></a>
