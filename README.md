@@ -1,4 +1,4 @@
-![logo]![Uploading banner.gif…]()
+![logo](https://github.com/souravjaiswl/souravjaiswl/blob/main/banner.png)
 
 <h1 align="center">I'm Sourav Jaiswal</h1>
 <h3 align="center">A passionate Android developer</h3>
